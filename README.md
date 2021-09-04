@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jens</h1>
 <h3 align="center">really like to make plugins for minecraft</h3>
 
-- 🔭 I’m currently working on [GeyserUpdater](https://github.com/ProjectG-Plugins/GeyserUpdater)
-
 - 🌱 I’m currently learning **Java**
+
+- 🔭 I’m currently working on [GeyserUpdater](https://github.com/ProjectG-Plugins/GeyserUpdater)
 
 - 🔭 I’m currently working on [GeyserHub](https://github.com/ProjectG-Plugins/GeyserHub)
 
