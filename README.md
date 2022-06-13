@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Jens</h1>
 <h3 align="center">mostly create plugins/stuff for Minecraft/Geyser</h3>
 
-- 🌱 I’m currently learning **Java, JavaScript, Css, Html, MySql**
+- 🌱 I’m creating stuff with **Java, JavaScript, Css, Html, MySql**
 
 - 🔭 I’m currently working with [GeyserMC](https://github.com/GeyserMC/Geyser)
 
+- ⚡ Owner of Development group **kejonaMC**
+
 - 👨‍💻 All of my projects are available at [https://github.com/kejonaMC](https://github.com/kejonaMC)
 
-- 💬 Ask me about **Music 😀**
 
-- 📫 How to reach me **jenscollaertprive@hotmail.com**
 
-- ⚡ Website [kejonaMC](https://kejona.dev)
+**Official Website [kejonaMC](https://kejona.dev)**
 
 
 <h3 align="left">Languages and Tools:</h3>
