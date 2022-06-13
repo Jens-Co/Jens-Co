@@ -1,21 +1,17 @@
 <h1 align="center">Hi 👋, I'm Jens</h1>
 <h3 align="center">really like to make plugins for minecraft</h3>
 
-- 🌱 I’m currently learning **Java**
-
-- 🔭 I’m currently working on [GeyserUpdater](https://github.com/ProjectG-Plugins/GeyserUpdater)
-
-- 🔭 I’m currently working on [GeyserHub](https://github.com/ProjectG-Plugins/GeyserHub)
+- 🌱 I’m currently learning **Java, JavaScript, Css, Html, MySql**
 
 - 🔭 I’m currently working with [GeyserMC](https://github.com/GeyserMC/Geyser)
 
-- 👨‍💻 All of my projects are available at [https://github.com/ProjectG-Plugins](https://github.com/ProjectG-Plugins)
+- 👨‍💻 All of my projects are available at [https://github.com/kejonaMC](https://github.com/kejonaMC)
 
 - 💬 Ask me about **Music 😀**
 
 - 📫 How to reach me **jenscollaertprive@hotmail.com**
 
-- ⚡ Fun fact **theethee**
+- ⚡ Website [kejonaMC](https://kejona.dev)
 
 
 <h3 align="left">Languages and Tools:</h3>
