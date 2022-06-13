@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jens</h1>
-<h3 align="center">really like to stuff for Minecraft/Geyser</h3>
+<h3 align="center">mostly create plugins/stuff for Minecraft/Geyser</h3>
 
 - 🌱 I’m currently learning **Java, JavaScript, Css, Html, MySql**
 
