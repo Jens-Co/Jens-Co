@@ -13,7 +13,7 @@
 
 **Official Website [kejonaMC](https://kejona.dev)**
 
-
+<h3>HoloPins </h3>
 [![@jensco's Holopin board](https://holopin.io/api/user/board?user=jensco)](https://holopin.io/@jensco)
 
 <h3 align="left">Languages and Tools:</h3>
