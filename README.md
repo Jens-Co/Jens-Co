@@ -12,23 +12,23 @@
 
 # 💫About Me :
   
-🌱 I’m creating stuff with **Java, JavaScript, Html, MySql**
+🌱 I can do some things with **Java, JavaScript - nodejs, MySql**
 
-🔭 I’m currently working with [GeyserMC](https://github.com/GeyserMC/Geyser)
-⚡ Owner of Development group **kejonaMC**
+#👨‍💻 A few of my projects are 
 
-👨‍💻 All of my projects are available at [https://github.com/kejonaMC](https://github.com/kejonaMC)
+[MCProfile](https://mcprofile.io) Minecraft account lookup for Bedrock and Java with RestAPI.
+<br>
+[MCWatchdog](https://mcwatchdog.mcprofile.io) A discord bot that tracks Minecraft server status and more.
 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=jens-co&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+🔭 I’m currently doing triage for [GeyserMC](https://github.com/GeyserMC/Geyser)
+
+⚡ Also working with Development group **[KejonaMC](https://github.com/KejonaMC)**
+
+<br>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jens-co&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jens-co&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jens-co&theme=discord&no-frame=false&no-bg=false&margin-w=4)
-  
-<h3>HoloPins </h3>
-
-[![@jensco's Holopin board](https://holopin.io/api/user/board?user=jensco)](https://holopin.io/@jensco)
   
 </div>
