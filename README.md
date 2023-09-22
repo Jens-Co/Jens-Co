@@ -12,7 +12,7 @@
 
 # 💫About Me :
   
-🌱 I can do some things with **Java, JavaScript - nodejs, MySql**
+🌱 I can do some things with **Java, JavaScript, TypeScript, nodejs, MySql**
 
 #👨‍💻 A few of my projects are 
 
@@ -20,7 +20,7 @@
 <br>
 [MCWatchdog](https://watchdog.mcprofile.io) A discord bot that tracks Minecraft server status and more.
 
-🔭 I’m currently doing triage for [GeyserMC](https://github.com/GeyserMC/Geyser)
+🔭 I’m a developer at [GeyserMC](https://github.com/GeyserMC/Geyser)
 
 ⚡ Also working with Development group **[KejonaMC](https://github.com/KejonaMC)**
 
