@@ -12,7 +12,7 @@
 
 # 💫About Me :
   
-🌱 I can do some things with **Java, JavaScript, TypeScript, nodejs, MySql**
+🌱 I can do some things with **Java, JavaScript, nodejs, MySql, MongoDB**
 
 #👨‍💻 A few of my projects are 
 
