@@ -18,10 +18,10 @@
 
 [MCProfile](https://mcprofile.io) Minecraft account lookup for Bedrock and Java with RestAPI.
 <br>
-[MCWatchdog](https://mcwatchdog.com) A discord bot that tracks  server status and more.
-
-🔭 I’m a developer at [GeyserMC](https://github.com/GeyserMC/Geyser)
-
+[NetherStatus](https://netherstatus.net) An Android/iOS application - discord bot that tracks  server status and more.
+<br>
+[NetherLink](https://netherlink.net) An Android/iOS macOS/Windows application that is able to tunnel and transfer Minecraft clients to a remote minecraft server
+<br>
 ⚡ Also working with Development group **[KejonaMC](https://github.com/KejonaMC)**
 
 <br>
